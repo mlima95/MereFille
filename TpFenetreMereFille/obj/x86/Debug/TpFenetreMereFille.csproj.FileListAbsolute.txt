@@ -1,0 +1,9 @@
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\bin\Debug\TpFenetreMereFille.exe
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\bin\Debug\TpFenetreMereFille.pdb
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.FFille.resources
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.FMere.resources
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.Properties.Resources.resources
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.csproj.GenerateResource.Cache
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.exe
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.pdb
+U:\Slam5\TpFenetreMereFille\TpFenetreMereFille\obj\x86\Debug\TpFenetreMereFille.csprojResolveAssemblyReference.cache
