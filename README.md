@@ -4,11 +4,11 @@
 Savoir jouer entre l'heritage de deux fenêtres WindowsForm
 
 Les outils mis en oeuvre :
-  *Visual Studio
-  *Bibilothèque Windows Form
-  *C#
+  * Visual Studio
+  * Bibilothèque Windows Form
+  * C#
   
-  le développement tourne autour de 2 grandes parties
+  le développement tourne autour de 2 grandes parties :
   1. Creation, stockage et suppresion de fenêtres fille
   2. Affichage et fermeture de fenêtres
   
