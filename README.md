@@ -9,15 +9,13 @@ Les outils mis en oeuvre :
   * C#
   
   le développement tourne autour de 2 grandes parties :
-  1. Creation, stockage et suppresion de fenêtres fille
-  2. Affichage et fermeture de fenêtres
   
   |développement          |langages |technique de programmation                           |
 |-----------------------|:-------:|----------------------------------------------------:|
 |  Creation, stockage et suppresion de fenêtres fille |c#|programmation objet              |
 |Affichage et fermeture de fenêtres  |c#       |programmation objet                   |
 
-  
+ # Connaissances Acquises
   
 * Evenements
 * Methodes de base sur wf
