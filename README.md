@@ -33,3 +33,24 @@ Lorsque l'on clique sur le bouton show la fenêtre fille apparait :
 * Méthodes de base sur Windows Form
 * Savoir instancier jeux fenetre
 * Savoir utiliser des composants graphiques standard
+
+
+
+## Languages
+
+```
+
+- C#
+
+```
+
+## Outils
+```
+
+- Visual Studio 2017
+
+- Sublime Text (Editor)
+
+- Bibilothèque Windows Form
+
+```
