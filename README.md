@@ -3,10 +3,6 @@
 **But du TP**
 Savoir jouer entre l'heritage de deux fenêtres WindowsForm
 
-Les outils mis en oeuvre :
-  * Visual Studio
-  * Bibilothèque Windows Form
-  * C#
   
  # Diagramme de classes
  ![Dg](https://github.com/mlima95/MereFille/blob/master/DiagrammeDeClasseMereFille.PNG)
